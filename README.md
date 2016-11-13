@@ -1,30 +1,30 @@
 # vim-plugins
 
-delimitmate:自动补全(括号,引号)
-supertab:智能提示(需要ctags)
-ctags-5.8
-tagbar:类似目录
-.vimrc:配置文件
+delimitmate:自动补全(括号,引号) <br />
+supertab:智能提示(需要ctags) <br />
+ctags-5.8<br />
+tagbar:类似目录<br />
+.vimrc:配置文件<br />
 
 
 # this is a new branch testing
 
-git checktime -b newbranch
-git checktime newbranch
-git branch -a
-git status
-git add/remove .
-git commit -a -m "  "
-git pull origin newbranch
-git push origin master 
-git fetch -p origin
-git push --delete origin newbranch
+git checktime -b newbranch<br />
+git checktime newbranch<br />
+git branch -a<br />
+git status<br />
+git add/remove .<br />
+git commit -a -m "  "<br />
+git pull origin newbranch<br />
+git push origin master <br />
+git fetch -p origin<br />
+git push --delete origin newbranch<br />
 
 
 # this is a ssh key testing
 
-ssh -vvT git@github.com
-git remote -v
-git remote add/remove origin ...
-git remote set-url git@github.com:username/gitname
-git remote set-url https://github.com/username/gitname
+ssh -vvT git@github.com<br />
+git remote -v<br />
+git remote add/remove origin ...<br />
+git remote set-url git@github.com:username/gitname<br />
+git remote set-url https://github.com/username/gitname<br />
