@@ -16,8 +16,15 @@ git status
 git add/remove .
 git commit -a -m "  "
 git pull origin newbranch
-git push origin newbranch
+git push origin master 
 git fetch -p origin
 git push --delete origin newbranch
 
+
 # this is a ssh key testing
+
+ssh -vvT git@github.com
+git remote -v
+git remote add/remove origin ...
+git remote set-url git@github.com:username/gitname
+git remote set-url https://github.com/username/gitname
