@@ -20,5 +20,4 @@ git push origin newbranch
 git fetch -p origin
 git push --delete origin newbranch
 
-
 # this is a ssh key testing
